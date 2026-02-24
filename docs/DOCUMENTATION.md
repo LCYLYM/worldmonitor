@@ -11,6 +11,12 @@ AI-powered real-time global intelligence dashboard aggregating news, markets, ge
 
 ![World Monitor Dashboard](../new-world-monitor.png)
 
+## Codebase Tour (中文)
+
+如果你想**从工程角度完整学习**这个项目（目录结构、启动流程、服务层、API、Tauri 桌面端、测试），请从这里开始：
+
+- **[docs/CODEBASE_TOUR_ZH.md](./CODEBASE_TOUR_ZH.md)**
+
 ## Platform Variants
 
 World Monitor runs two specialized variants from a single codebase, each optimized for different monitoring needs:
